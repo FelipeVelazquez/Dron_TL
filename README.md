@@ -19,7 +19,7 @@
 	</ul>
 	<li>Video stream: video_tello.py</li>
 	<ul>
-		<br>This node star the video and put on a image topic of ROS </br>
+		<br>This node start the video and put on a image topic of ROS </br>
 	</ul>
 </ul> 
 
