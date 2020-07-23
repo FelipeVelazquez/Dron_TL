@@ -1,13 +1,13 @@
 #!/usr/bin/env python
 
 #################################################
-#												#
-#  		This program init the tello dron 		#
-#                 		&						#
-# get the data of sensor and turn on ROS data	#
-#												#
-#	Author: L. Felipe Velazquez					#
-#												#
+#												
+#  		This program init the tello dron 		
+#                 		&						
+# get the data of sensor and turn on ROS data	
+#												
+#	Author: L. Felipe Velazquez					
+#												
 #################################################
 
 import cv2
