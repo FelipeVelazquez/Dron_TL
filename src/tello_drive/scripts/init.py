@@ -2,7 +2,7 @@
 
 #################################################
 #												
-#  		This program init the tello dron 		
+#  This program init the tello dron 		
 #                 		&						
 # get the data of sensor and turn on ROS data	
 #												
